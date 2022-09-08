@@ -6,9 +6,9 @@ This capstone project will ultimately **predict if the Space X Falcon 9 first st
 The full report can be found [here](https://github.com/Ashwiin/IBM-Data-Science-Professional-Certificate/blob/main/IBM%20Data%20Science%20Capstone%20Project%202022.pdf).
 
 ### Context and Business Understanding
-- SpaceX launches Falcon 9 rockets at a cost of around $62m. This is considerably cheaper than other providers (which usually cost upwards of $165m), and much of the savings are because SpaceX can land, and then re-use the first stage of the rocket. 
+- Space X promotes Falcon 9 rocket launch for a fee of 62 million dollars. At the same time, their competitors are charging more than 165 million dollars for each launch. The significant amount of savings coming from Space X is due to its ability to reuse the first stage.
 
-- If we can make predictions on whether the first stage will land, we can determine the cost of a launch, and use this information to assess whether or not an alternate company should bid against SpaceX for a rocket launch.
+- If we can predict whether the first stage will land, we can compute the cost of a launch and evaluate whether an alternative business should compete with SpaceX for a rocket launch.
 
 ## 📑 Main Topics 
 This project follows these steps:
