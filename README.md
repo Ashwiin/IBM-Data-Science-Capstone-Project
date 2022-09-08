@@ -3,7 +3,7 @@
 ## 📄 Summary
 This capstone project will ultimately **predict if the Space X Falcon 9 first stage will land successfully**. 
 
-The full report can be found [here](https://github.com/Ashwiin/IBM-Data-Science-Professional-Certificate/blob/main/IBM%20Data%20Science%20Capstone%20Project%202022.pdf).
+The full report can be found [here](https://github.com/Ashwiin/IBM-Data-Science-Capstone-Project/blob/main/IBM%20Data%20Science%20Capstone%20Project%202022.pdf).
 
 ### Context and Business Understanding
 - Space X promotes Falcon 9 rocket launch for a fee of 62 million dollars. At the same time, their competitors are charging more than 165 million dollars for each launch. The significant amount of savings coming from Space X is due to its ability to reuse the first stage.
